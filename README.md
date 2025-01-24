@@ -1,5 +1,5 @@
 
-------Email Spam Classifier------
+------Email Spam Classifier App------
 This repository contains a Python application that classifies emails as spam or ham (not spam) using machine learning techniques.
 
 == Accuracy of Multinomial Naive Bayes Classifier: 97%**
