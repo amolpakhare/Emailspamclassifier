@@ -54,3 +54,9 @@ spam_classifier/
 
 6. Saves the trained model (model.pkl) and the TF-IDF vectorizer (vectorizer.pkl) for future use.
 
+Contact me:-
+
+Email:- pakhareamol300@gmail.com
+
+linkdin Profile:- https://www.linkdin.com/in/pakhareamol
+
